@@ -1,9 +1,4 @@
 
-Sure! I’ve reviewed the GitHub project [**Multi-Agent Stock Analysis Recommendation**](https://github.com/Tejas3103/Advanced-RAG-Project/tree/master/Multi-Agent%20Stock%20Analysis%20recommendation), and here is a complete `README.md` file you can use to describe it effectively on GitHub:
-
----
-
-```markdown
 # 📊 Multi-Agent Stock Analysis Recommendation System
 
 Welcome to the **Multi-Agent Stock Analysis Recommendation** system — an innovative, AI-powered framework that leverages multiple intelligent agents to analyze stock data and provide informed investment recommendations. This project is a sub-module of a larger [Advanced RAG Project](https://github.com/Tejas3103/Advanced-RAG-Project), and showcases how **multi-agent collaboration** can supercharge financial decision-making.
@@ -132,6 +127,3 @@ For questions or feedback, feel free to open an issue!
 
 ```
 
----
-
-Let me know if you'd like to customize this README further (e.g., add screenshots, change the tone, or include setup for cloud deployment).
