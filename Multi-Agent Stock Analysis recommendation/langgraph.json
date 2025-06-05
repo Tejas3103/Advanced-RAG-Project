@@ -1,0 +1,9 @@
+{
+    "graphs": {
+      "stock_analysis": "./stock_analysis_graph.py:graph"
+    },
+    "env": "./.env",
+    "dependencies": [
+      "."
+    ]
+  }
